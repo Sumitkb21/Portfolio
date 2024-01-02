@@ -12,5 +12,5 @@ npm install
 cd myapp
 npm start
 ```
-and running these commands you can see the basic strucutre of Single Page Application.
+
 
