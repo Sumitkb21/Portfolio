@@ -1,0 +1,26 @@
+body{
+  background: radial-gradient(circle at 0% 0%,#13072e,#000000,#3b0d64);
+  color:white;
+  overflow: hidden;
+  overflow-y :scroll;
+  /* background-repeat: no-repeat; */
+  /* max-width: 75rem; */
+}
+:root{
+  font-size: 11px;
+}
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration:none;    
+    background: transparent;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
