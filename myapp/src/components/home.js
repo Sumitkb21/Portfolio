@@ -17,7 +17,7 @@ export default function Home() {
         <span className="hello">Hello, </span>
         <span className="introtext">
           I'm <span className="introname">Sumit</span> <br />
-          Software developer <br />
+          Tech Enthusiast <br />
           {/* & <br />
           Software developer */}
         </span>
