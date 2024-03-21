@@ -1,4 +1,4 @@
-![image](https://github.com/Sumitkb21/Portfolio/assets/101947627/8359e2d5-f4ea-4eea-8a33-1b0013fcde18)# Portfolio
+# Portfolio
 Hello everyone, this is my portfolio page
 ## Key Features
 ### Home Page:
