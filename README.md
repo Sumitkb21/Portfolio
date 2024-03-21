@@ -1,4 +1,4 @@
-# Portfolio
+![image](https://github.com/Sumitkb21/Portfolio/assets/101947627/8359e2d5-f4ea-4eea-8a33-1b0013fcde18)# Portfolio
 Hello everyone, this is my portfolio page
 ## Key Features
 ### Home Page:
@@ -7,6 +7,9 @@ Hello everyone, this is my portfolio page
 ### Portfolio Page:
 - **Project Section:** I mentioned my important Projects in this section.
 - **Skill Section:** I mentioned my all main and strong skills.
+- **CV:** You can access my CV from here  
+![image](https://github.com/Sumitkb21/Portfolio/assets/101947627/e1223aea-9c03-4da0-9e23-a0df2403d256)
+
 ### Education Page:
 ![image](https://github.com/Sumitkb21/Assignment_2_ACA/assets/101947627/59bb09c4-b8ac-46c1-a61a-8eaaadffd8e7)
 ### Contact Page:
