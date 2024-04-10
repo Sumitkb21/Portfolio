@@ -1,6 +1,5 @@
 # Portfolio
-Hello everyone, this is my portfolio page
-Link : https://sumit-kvs1-portfolio.netlify.app/
+Hello everyone, this is my portfolio page : https://sumit-kvs1-portfolio.netlify.app/
 ## Key Features
 ### Home Page:
 ![image](https://github.com/Sumitkb21/Portfolio/assets/101947627/8a915053-7706-4d2d-813b-2a6b0e70fb4d)
